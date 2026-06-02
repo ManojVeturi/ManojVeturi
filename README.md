@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Manoj+Veturi;Full-Stack+Developer;AI%2FML+Enthusiast;Python+Developer;Open+Source+Learner" />
+<h1> 👋Hi, I'm Manoj Veturi</h1>
 
-<h3>💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🐍 Python Developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines= Full-Stack+Developer;AI%2FML+Enthusiast;Python+Developer" />
 
 <p align="center">
 
@@ -98,6 +98,5 @@ Interactive dashboard for data visualization and reporting.
 
 ### ⭐ Thanks for visiting!
 
-*"Code • Learn • Build • Repeat"*
 
 </div>
