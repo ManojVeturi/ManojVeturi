@@ -5,21 +5,19 @@
 <h3>💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🐍 Python Developer</h3>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/manoj-veturi/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:manojveturi2007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/ManojVeturi">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/qwMkyb4LpI">
-<img src="https://img.icons8.com/color/96/leetcode.png" height="50"/>
-</a>
+
 </p>
 
 </div>
@@ -70,29 +68,19 @@ Interactive dashboard for data visualization and reporting.
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
+<p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=ManojVeturi&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojVeturi&theme=tokyo-night&hide_border=true" />
-
-</div>
+</p>
 
 ---
 
