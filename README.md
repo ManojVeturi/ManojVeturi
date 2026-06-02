@@ -68,20 +68,20 @@ Interactive dashboard for data visualization and reporting.
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<p align="column">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 
-<img width="49%" src="https://streak-stats.demolab.com?user=ManojVeturi&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ManojVeturi&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManojVeturi&theme=tokyo-night&hide_border=true" />
+<img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManojVeturi&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
