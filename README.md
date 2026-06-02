@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_LEETCODE_PROFILE">
+<a href="https://leetcode.com/u/qwMkyb4LpI">
 <img src="https://img.icons8.com/color/96/leetcode.png" height="50"/>
 </a>
 </p>
@@ -28,24 +28,13 @@
 
 # 🚀 About Me
 
-```python
-class ManojVeturi:
+💻 Full-Stack Developer passionate about building scalable web applications.
 
-    education = "B.Tech @ NIT Durgapur"
+🤖 Exploring Artificial Intelligence and Machine Learning to solve real-world problems.
 
-    role = [
-        "Full-Stack Developer",
-        "AI/ML Enthusiast",
-        "Python Developer"
-    ]
+🐍 Python Developer with experience in automation, backend development, and data analysis.
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "Open Source"
-    ]
-```
+🌱 Currently learning Django, Advanced ML, and System Design.
 
 ---
 
@@ -83,21 +72,25 @@ Interactive dashboard for data visualization and reporting.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ManojVeturi&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ManojVeturi&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojVeturi&theme=tokyo-night&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojVeturi&theme=tokyo-night&hide_border=true" />
 
 </div>
 
