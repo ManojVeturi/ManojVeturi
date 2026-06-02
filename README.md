@@ -1,4 +1,4 @@
-## <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Manoj+Veturi;Full-Stack+Developer;AI%2FML+Enthusiast;Python+Developer;Open+Source+Learner" />
 
@@ -17,12 +17,8 @@
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/">
+<a href="YOUR_LEETCODE_PROFILE">
 <img src="https://img.icons8.com/color/96/leetcode.png" height="50"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.kaggle.com/">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" height="50"/>
 </a>
 </p>
 
@@ -32,13 +28,24 @@
 
 # 🚀 About Me
 
-* 🎓 B.Tech Student at NIT Durgapur
-* 💻 Passionate about Full-Stack Development
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 🐍 Python Developer
-* 🐧 Linux Enthusiast
-* 🌱 Open Source Learner
-* ⚡ Love building practical projects and solving problems
+```python
+class ManojVeturi:
+
+    education = "B.Tech @ NIT Durgapur"
+
+    role = [
+        "Full-Stack Developer",
+        "AI/ML Enthusiast",
+        "Python Developer"
+    ]
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Web Development",
+        "Open Source"
+    ]
+```
 
 ---
 
@@ -46,25 +53,41 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,fastapi,mysql,postgresql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,django,git,github,linux,vscode,mysql" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+AI-powered resume screening system using Machine Learning.
+
+### 🧠 Student Performance Predictor
+
+Machine Learning model for academic performance prediction.
+
+### 🌐 Full-Stack Portfolio Website
+
+Responsive portfolio built using React and Django.
+
+### 📊 Data Analytics Dashboard
+
+Interactive dashboard for data visualization and reporting.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -72,35 +95,11 @@
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojVeturi&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 🏆 Interests
-
-* 🌐 Full-Stack Web Development
-* 🤖 Artificial Intelligence
-* 📊 Machine Learning
-* 🐍 Python Programming
-* 🐧 Linux & Open Source
-* ☁️ Cloud Technologies
-
----
-
-# 🎯 Current Focus
-
-* Building Full-Stack Projects
-* Learning Advanced AI/ML Concepts
-* Improving Data Structures & Algorithms
-* Contributing to Open Source
 
 ---
 
@@ -116,25 +115,8 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"Code. Learn. Build. Repeat."*
+*"Code • Learn • Build • Repeat"*
 
 </div>
-
-
-## 🛠 Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,linux,vscode,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVeturi&layout=compact&theme=tokyonight)
-
----
