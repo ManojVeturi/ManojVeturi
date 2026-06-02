@@ -34,9 +34,9 @@
 
 🤖 Exploring Artificial Intelligence and Machine Learning to solve real-world problems.
 
-🐍 Python Developer with experience in automation, backend development, and data analysis.
+🐍 Python Developer with experience in automation, backend development.
 
-🌱 Currently learning Django, Advanced ML, and System Design.
+🌱 Currently learning Django, Advanced ML.
 
 ---
 
@@ -52,21 +52,35 @@
 
 # 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
+### 🛒 Simply Shop
 
-AI-powered resume screening system using Machine Learning.
+A full-stack e-commerce platform built using **React** and **Django** with secure authentication and a dynamic shopping experience.
 
-### 🧠 Student Performance Predictor
+**Tech Stack:** React • Django • PostgreSQL • JWT
 
-Machine Learning model for academic performance prediction.
+**Highlights:**
 
-### 🌐 Full-Stack Portfolio Website
+* JWT Authentication
+* Google OAuth Login
+* Dynamic Cart System
+* REST API Backend
+* Responsive Design
+* Deployed on Vercel & Render
 
-Responsive portfolio built using React and Django.
+---
 
-### 📊 Data Analytics Dashboard
+### 🌐 Responsive Portfolio Website
 
-Interactive dashboard for data visualization and reporting.
+A modern and responsive portfolio website built with **React** to showcase projects, skills, and experiences.
+
+**Tech Stack:** React • JavaScript • CSS
+
+**Highlights:**
+
+* Fully Responsive Design
+* Smooth UI & Animations
+* Project Showcase Section
+* Contact Form Integration
 
 ---
 
