@@ -69,10 +69,10 @@ Interactive dashboard for data visualization and reporting.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 
-<img src="https://streak-stats.demolab.com?user=ManojVeturi&theme=tokyonight&hide_border=true" height="170"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ManojVeturi&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
