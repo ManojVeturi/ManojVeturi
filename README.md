@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Manoj Veturi
+#  Hi, I'm Manoj Veturi
 
-### 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🐍 Python Developer
+###  Full-Stack Developer |  AI/ML Enthusiast |  Python Developer
 
 </div>
 
@@ -28,15 +28,15 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-💻 Full-Stack Developer passionate about building scalable web applications.
+ Full-Stack Developer passionate about building scalable web applications.
 
-🤖 Exploring Artificial Intelligence and Machine Learning to solve real-world problems.
+ Exploring Artificial Intelligence and Machine Learning to solve real-world problems.
 
-🐍 Python Developer with experience in automation, backend development.
+ Python Developer with experience in automation, backend development.
 
-🌱 Currently learning Django, Advanced ML.
+ Currently learning Django, Advanced ML.
 
 ---
 
@@ -50,9 +50,9 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🛒 Simply Shop
+###  Simply Shop
 
 A full-stack e-commerce platform built using **React** and **Django** with secure authentication and a dynamic shopping experience.
 
@@ -69,7 +69,7 @@ A full-stack e-commerce platform built using **React** and **Django** with secur
 
 ---
 
-### 🌐 Responsive Portfolio Website
+###  Responsive Portfolio Website
 
 A modern and responsive portfolio website built with **React** to showcase projects, skills, and experiences.
 
@@ -84,7 +84,7 @@ A modern and responsive portfolio website built with **React** to showcase proje
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManojVeturi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -104,7 +104,7 @@ A modern and responsive portfolio website built with **React** to showcase proje
 
 ---
 
-# 👀 Profile Views
+#  Profile Views
 
 <div align="center">
 
@@ -116,7 +116,7 @@ A modern and responsive portfolio website built with **React** to showcase proje
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+###  Thanks for visiting!
 
 
 </div>
